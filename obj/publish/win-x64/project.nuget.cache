@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/kWBtVTyETC7QfQKdmnM2fEL1A8hxq0Kc6MHk4FUqSIWtqJcgdZWEqx2F8Z9vCLDrWyOiv8eOV/ymYO/2SEtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ribha\\Downloads\\C# Solutions\\Hangman\\Hangman\\Hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ribha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.4\\microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\ribha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\ribha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
