@@ -1,0 +1,15 @@
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\Hangman.exe
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\Hangman.deps.json
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\Hangman.runtimeconfig.json
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\Hangman.dll
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\Hangman.pdb
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.AssemblyInfo.cs
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.dll
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\refint\Hangman.dll
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.pdb
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.genruntimeconfig.cache
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\ref\Hangman.dll
