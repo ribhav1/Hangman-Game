@@ -122,7 +122,10 @@ while (playing)
             {
                 Console.WriteLine("Sorry, you lost");
                 Console.WriteLine(randomWord);
-                playing = false;
+                if (!restartGame())
+                {
+                    playing = false;
+                }
                 break;
             }
 
