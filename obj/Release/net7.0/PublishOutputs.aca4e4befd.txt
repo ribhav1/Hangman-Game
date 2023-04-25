@@ -1,0 +1,5 @@
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\publish\Hangman.exe
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\publish\Hangman.dll
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\publish\Hangman.deps.json
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\publish\Hangman.runtimeconfig.json
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\publish\Hangman.pdb

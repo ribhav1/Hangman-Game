@@ -13,3 +13,7 @@ C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\refint\
 C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.pdb
 C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.genruntimeconfig.cache
 C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\ref\Hangman.dll
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\Hangman.dll.manifest
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\bin\Release\net7.0\Hangman.application
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.dll.manifest
+C:\Users\ribha\Downloads\C# Solutions\Hangman\Hangman\obj\Release\net7.0\Hangman.application
